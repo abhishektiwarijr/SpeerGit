@@ -6,11 +6,12 @@ built with Compose, MVVM pattern as well as other architectural components and l
 
 
 ### Screenshots
-![Screenshot_1704468287](https://github.com/abhishektiwarijr/SpeerGit/assets/25899457/19554164-5316-409c-ae2d-af20dfae80f3)
-![Screenshot_1704468296](https://github.com/abhishektiwarijr/SpeerGit/assets/25899457/813f2581-4eb5-4181-84e4-9c119234617f)
-![Screenshot_1704468298](https://github.com/abhishektiwarijr/SpeerGit/assets/25899457/32d3c13c-41a3-4d04-a7bc-182344baa994)
-![Screenshot_1704468301](https://github.com/abhishektiwarijr/SpeerGit/assets/25899457/e6bc9d45-0158-416f-891e-979eef490f8c)
-![Screenshot_1704468304](https://github.com/abhishektiwarijr/SpeerGit/assets/25899457/d4c7a02c-9ece-4a05-99c5-800d541f92a0)
+<img src="https://github.com/abhishektiwarijr/SpeerGit/assets/25899457/19554164-5316-409c-ae2d-af20dfae80f3" width=150/>
+<img src="https://github.com/abhishektiwarijr/SpeerGit/assets/25899457/813f2581-4eb5-4181-84e4-9c119234617f" width=150/> 
+<img src="https://github.com/abhishektiwarijr/SpeerGit/assets/25899457/32d3c13c-41a3-4d04-a7bc-182344baa994" width=150/>
+<img src="https://github.com/abhishektiwarijr/SpeerGit/assets/25899457/e6bc9d45-0158-416f-891e-979eef490f8c" width=150/>
+<img src="https://github.com/abhishektiwarijr/SpeerGit/assets/25899457/d4c7a02c-9ece-4a05-99c5-800d541f92a0" width=150/> 
+
 
 ## Architecture
 The app is built using the MVVM clean code architectural pattern.
